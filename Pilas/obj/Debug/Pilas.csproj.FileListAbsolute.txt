@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Desktop\Pilas\Pilas\bin\Debug\Pilas.exe.config
+C:\Users\USER\OneDrive\Desktop\Pilas\Pilas\bin\Debug\Pilas.exe
+C:\Users\USER\OneDrive\Desktop\Pilas\Pilas\bin\Debug\Pilas.pdb
+C:\Users\USER\OneDrive\Desktop\Pilas\Pilas\obj\Debug\Pilas.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\Pilas\Pilas\obj\Debug\Pilas.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Pilas\Pilas\obj\Debug\Pilas.exe
+C:\Users\USER\OneDrive\Desktop\Pilas\Pilas\obj\Debug\Pilas.pdb
